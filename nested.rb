@@ -15,7 +15,7 @@ def hopper
         :languages => ["C"]
       }
     }
-		puts "testtest #{grace_hopper}"
+		
 programmer_hash['grace_hopper']
 end
 
